@@ -1,2 +1,2 @@
 # binder
-My binder notebook https://mybinder.org
+My binder notebook built 9/2/2019 available at https://mybinder.org/v2/gh/aeged/binder/master
