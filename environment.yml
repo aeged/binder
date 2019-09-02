@@ -1,4 +1,4 @@
-name: xeus-cling
+name: my-env
 channels:
   - conda-forge
 dependencies:
@@ -6,3 +6,11 @@ dependencies:
   - xtensor=0.20.8
   - xtensor-blas=0.16.1
   - notebook
+  - python
+  - numpy
+  - pip
+  - pip:
+    - nbgitpuller
+    - sphinx-gallery
+    - pandas
+    - matplotlib
